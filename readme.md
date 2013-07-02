@@ -1,4 +1,4 @@
-# Web app generator [![Build Status](https://secure.travis-ci.org/jonathanmoore/generator-tumblr.png?branch=master)](http://travis-ci.org/jonathanmoore/generator-tumblr)
+# Tumblr theme generator [![Build Status](https://secure.travis-ci.org/jonathanmoore/generator-tumblr.png?branch=master)](http://travis-ci.org/jonathanmoore/generator-tumblr)
 
 Yeoman generator for scaffolding and testing a Tumblr theme.
 
