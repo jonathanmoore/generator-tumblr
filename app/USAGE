@@ -1,0 +1,15 @@
+Description:
+    Creates a new basic front-end Tumblr theme.
+
+Options:
+    In progress
+
+Example:
+    yo tumblr
+
+    This will create:
+        Gruntfile.js: Configuration for the task runner.
+        bower.json: Front-end packages installed by bower.
+        package.json: Development packages installed by npm.
+
+        app/: Your application files.
